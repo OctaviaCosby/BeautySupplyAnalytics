@@ -5,7 +5,7 @@ In this repository I help a Local beauty supply shop gain insights on their data
 
 ### Overview
 In this notebook the following steps were used for the best desired outcome:
-1. Data Preparation-
+1. Data Preparation
    - Open dataset and save a new vairable
    - Remove unnecessary columns and ones with missing data
    - Convert columns to floats
@@ -28,10 +28,10 @@ In this notebook the following steps were used for the best desired outcome:
    - Selling products from profitable niches
 
 ### Files
-
 Camille_Beauty_Data_Analysis.ipynb – Main Jupyter Notebook with full analysis
 first_quarter_products.csv (ataset used for analysis)
 first_quarter.csv (dataset used for analysis)
 
-The official presentation of the final project that includes written analysis, suggestions and more are all on Canva: 
+### Final Pressionation
+The official client presentation of the final project that includes written analysis, suggestions and more are all on Canva: 
 https://www.canva.com/design/DAGn3P_UCNE/1viF49qEzffonBKfhlrj0g/view?utm_content=DAGn3P_UCNE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd01f3d08b8
