@@ -33,6 +33,6 @@ first_quarter_products.csv (ataset used for analysis)
 first_quarter.csv (dataset used for analysis)
 
 ### Final Pressionation
-The official client presentation of the final project that includes written analysis, suggestions and more are all on Canva: 
+The official client presentation of the final project that includes written analysis, suggestions and more are all on Canva. [Click here to view the presentation. ](https://www.canva.com/design/DAGn3P_UCNE/zRSk72HNIVOyQpHKNmC8aQ/edit?utm_content=DAGn3P_UCNE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-https://www.canva.com/design/DAGn3P_UCNE/1viF49qEzffonBKfhlrj0g/view?utm_content=DAGn3P_UCNE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hd01f3d08b8
+
